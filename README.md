@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Rasheed ✨
 
-A Software Engineer with specialization in **distributed computing**, **data science & machine learning**, **functional programming** & **systems engineering**
+A Software Engineer with specialization in **distributed computing**, **data science & machine learning**, **functional** & **systems programming**
 
 ## Languages
 
