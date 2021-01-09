@@ -1,4 +1,4 @@
-### Hey 👋, I'm Rasheed David
+### Hey 👋, I'm Rasheed ✨
 
 I am a FP(🌚) first software engineer with a sweet spot for **distributed computing**, **data science** & **machine learning**
 
