@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Rasheed David
 
-I am a FP(🌚) first software engineer with a soft spot for **data science** & **machine learning**
+I am a FP(🌚) first software engineer with a sweet spot for **distributed computing**, **data science** & **machine learning**
 
 ## Languages
 
