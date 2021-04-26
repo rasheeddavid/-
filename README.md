@@ -5,7 +5,7 @@
 - C/C++
 - Haskell
 - Java
-- JavaScript
+- JavaScript/TypeScript
 - Scala
 
 
