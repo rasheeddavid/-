@@ -2,12 +2,10 @@
 
 ## Languages
 
-- C/C++
+- Scala
 - Haskell
 - Java
 - JavaScript/TypeScript
-- Rust
-- Scala
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
