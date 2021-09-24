@@ -10,4 +10,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![キャンディの神 stats](https://github-readme-stats.vercel.app/api?username=rasheeddavid&show_icons=true&theme=dracula)
+![キャンディの神 stats](https://github-readme-stats.vercel.app/api?username=monyedavid&show_icons=true&theme=dracula)
